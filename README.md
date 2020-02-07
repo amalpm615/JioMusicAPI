@@ -7,6 +7,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cyberboysj.svg?style=social)](https://twitter.com/CyberboySj)
 
+[![Deploy]([![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 #### JioMusic API written in Python using Flask  
 ![JioMusic](https://telegra.ph/file/a053512b3f86018f275a2.png)
  ---
